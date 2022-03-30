@@ -1,5 +1,3 @@
-# html-beginner-news-site-task
-
 # Introduction
 
 This is news website demo project for html learning and implementation.
